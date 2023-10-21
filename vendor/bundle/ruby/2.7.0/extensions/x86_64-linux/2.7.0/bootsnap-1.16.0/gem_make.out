@@ -1,0 +1,15 @@
+current directory: /home/khoanda/RubymineProjects/twitter/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20231021-94584-1tw7b7k.rb extconf.rb
+creating Makefile
+
+current directory: /home/khoanda/RubymineProjects/twitter/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/khoanda/RubymineProjects/twitter/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/khoanda/RubymineProjects/twitter/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20231021-94584-1t5sevw/bootsnap
